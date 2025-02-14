@@ -1,0 +1,55 @@
+body {
+    font-size: 20px;
+    margin-left: 10em;
+    margin-right: 10em;
+    font-family: "Yatra One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    color: coral;
+}
+
+#para1{
+    color: firebrick;
+    background-color: beige;
+}
+
+#para2{
+    margin-top: 50px;
+    color: darkorchid    
+}
+
+ul li {
+    font-style: italic;
+}
+
+.pop {
+    color: purple;
+}
+
+.indie{
+    color: orange;
+}
+
+.french Indie{
+    color: blueviolet
+}
+
+.gospel{
+    color: gold
+}
+
+img{
+    float: left;
+    border-radius: 2em;
+    margin-right: 3em;
+}
+
+div p {
+    font-style: italic;
+    color: crimson;
+}
+
+  
